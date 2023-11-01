@@ -2,7 +2,9 @@
 
 ## Description
 
-This project updates an existing website by Horiseon by refactoring the existing code to make it more accessible to users. These updates ensure that there are semantic HTML elements, HTML elements follow logical structure and flow, and alt attributes are present. These updates do not change the visible website but allow for more accessibility for those who have disabilities.   
+This project updates an existing website by Horiseon by refactoring the existing code to make it more accessible to users. These updates ensure that there are semantic HTML elements, HTML elements follow logical structure and flow, and alt attributes are present. These updates do not change the visible website but allow for more accessibility for those who have disabilities.  
+
+Website: https://teracuddzamora.github.io/week-1-challenge/
 
 
 ## Installation
