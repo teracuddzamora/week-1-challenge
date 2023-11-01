@@ -10,12 +10,10 @@ This project updates an existing website by Horiseon by refactoring the existing
 N/A
 
 ## Usage
+ To observe the accesibiluty features added to this Horiseon webpage, you can open Chrome DevTools by pressing Command + Option+ I on Mac and Control + Shift + I on Windows. A console panel should open next to the webpage, from there you can observe some of the changes that were made. Observable changes include semantic HTML elements, HTML logical flow, alt attributes with images, a descriptive title elements, and sequential heading attributes. Refer to the image below to see these changes! 
 
-Provide instructions and examples for use. Include screenshots as needed.
+![alt text](./assets/images/week-1-challenge-usage-screenshot-Horiseon.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 ## Credits
 
@@ -23,19 +21,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+Please refer to LICENSE in repo.
 
 
-
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
